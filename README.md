@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # G2B5_JS_GradedProject2
 
 Develop a single User interface where you can see the details shared by the candidates or the applicants. Below are the detailed requirements which you have to achieve as a first version of the web page design.
@@ -17,3 +18,10 @@ In Login Page:
     3. The web application should also have filtering capability where when searched for a particular job, only applications of that job openings should be displayed.
     4. In case if there is one application when searched for a job opening, the left and right buttons should not be seen. If the shown application is the first application, then previous buttons should be hidden and vice-versa.
     5. If there are no job openings for the searched value, then print “Invalid search or No applications for this job”.
+=======
+# SapnaGupta_JS3_Lab
+
+Create an application which will show the weather information for a specific city.
+
+Users should be able to get the weather information for any valid city.
+>>>>>>> gr3-repo/main
